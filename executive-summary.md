@@ -10,7 +10,7 @@ We measured walking access using network-based isochrones at 5, 10, and 15 minut
 
 ## Data sources
 
-This analysis combines three main inputs: MBTA station data, MassGIS DCR open space, and pedestrian network data from OSMnx.
+This analysis combines three main inputs: MBTA station data, MassGIS DCR open space, and pedestrian network data from OpenStreetMaps.
 
 ## Key findings
 
