@@ -2,7 +2,7 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: light
 
 title: mbta-park-access
-description: Walking access to parks from every MBTA station
+description: A system‑wide assessment of transit‑based park access in Boston urban core, identifying gaps and opportunities for equitable pedestrian infrastructure.
 
 plugins:
   - jekyll-sitemap
