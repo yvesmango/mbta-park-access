@@ -2,7 +2,7 @@
 
 # MBTA Park Accessibility
 
-**Goal**: To evaluate walking access to parks from every MBTA station in Boston, Cambridge, and Somerville, and identify where the system excels — and where it falls short.
+**Goal**: To evaluate walkgit ing access to parks from every MBTA station in Boston, Cambridge, and Somerville, and identify where the system excels — and where it falls short.
 
 ## Introduction
 
@@ -10,8 +10,8 @@ As Boston prepares to host the 2026 FIFA World Cup, millions of visitors will re
 
 ## Data Sources
 
-- **MBTA Stations** : Rapid transit station locations (MBTA GIS data).
-- **Open Space (Parks)** : MassGIS Protected and Recreational OpenSpace dataset (DCR).
+- **MBTA Stations** : Subway transit station locations (MBTA data).
+- **Open Space** : MassGIS Conservation and Recreational Open Space dataset (DCR).
 - **Pedestrian Network** : OpenStreetMap footpaths and sidewalks accessed via OSMnx.
 
 ## Methodology
@@ -32,12 +32,11 @@ As Boston prepares to host the 2026 FIFA World Cup, millions of visitors will re
 ## Outputs
 
 - [Executive Summary](./executive-summary.md)
-- [Interactive Map (coming soon)]() – planned Streamlit app
 - [Analysis Notebook](./analysis.md)
 
 ## Technologies Used
 
-`Python`, `GeoPandas`, `OSMnx`, `Matplotlib`, `Streamlit`, `REST APIs`, `Jupyter`
+`Python`, `GeoPandas`, `OSMnx`, `Matplotlib`, `Jupyter`
 
 ## License
 
