@@ -1,0 +1,18 @@
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+color-scheme: light
+
+title: mbta-park-access
+description: Walking access to parks from every MBTA station
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+navigation:
+  - name: Read me
+    link: ./index.html
+  - name: Executive Summary
+    link: ./executive-summary.md
+  - name: Analysis
+    link: ./analysis.md
